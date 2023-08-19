@@ -1,7 +1,7 @@
-hh
-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-"修改"
-"主分支"
-"唉呀"
-"fix分支"
+<<<<<<< HEAD
+主分支
 好好学习
+======
+这个是分支的
+天天向上
+>>>>>>> fix
